@@ -11,6 +11,9 @@
 		74576FD92BA6956300780B9A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74576FD82BA6956300780B9A /* ContentView.swift */; };
 		74576FDB2BA6956400780B9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74576FDA2BA6956400780B9A /* Assets.xcassets */; };
 		74576FDE2BA6956400780B9A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74576FDD2BA6956400780B9A /* Preview Assets.xcassets */; };
+		74576FE52BA69FB100780B9A /* ExplicitAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74576FE42BA69FB100780B9A /* ExplicitAnimationView.swift */; };
+		74576FE72BA6BF9C00780B9A /* ControlMultipleAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74576FE62BA6BF9C00780B9A /* ControlMultipleAnimation.swift */; };
+		74576FE92BA6C38600780B9A /* DragGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74576FE82BA6C38600780B9A /* DragGesture.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		74576FD82BA6956300780B9A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		74576FDA2BA6956400780B9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		74576FDD2BA6956400780B9A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		74576FE42BA69FB100780B9A /* ExplicitAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExplicitAnimationView.swift; sourceTree = "<group>"; };
+		74576FE62BA6BF9C00780B9A /* ControlMultipleAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlMultipleAnimation.swift; sourceTree = "<group>"; };
+		74576FE82BA6C38600780B9A /* DragGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGesture.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,9 @@
 			children = (
 				74576FD62BA6956300780B9A /* SwiftUI_AnimationApp.swift */,
 				74576FD82BA6956300780B9A /* ContentView.swift */,
+				74576FE42BA69FB100780B9A /* ExplicitAnimationView.swift */,
+				74576FE62BA6BF9C00780B9A /* ControlMultipleAnimation.swift */,
+				74576FE82BA6C38600780B9A /* DragGesture.swift */,
 				74576FDA2BA6956400780B9A /* Assets.xcassets */,
 				74576FDC2BA6956400780B9A /* Preview Content */,
 			);
@@ -137,7 +146,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				74576FE52BA69FB100780B9A /* ExplicitAnimationView.swift in Sources */,
 				74576FD92BA6956300780B9A /* ContentView.swift in Sources */,
+				74576FE72BA6BF9C00780B9A /* ControlMultipleAnimation.swift in Sources */,
+				74576FE92BA6C38600780B9A /* DragGesture.swift in Sources */,
 				74576FD72BA6956300780B9A /* SwiftUI_AnimationApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
