@@ -14,6 +14,7 @@
 		74576FE52BA69FB100780B9A /* ExplicitAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74576FE42BA69FB100780B9A /* ExplicitAnimationView.swift */; };
 		74576FE72BA6BF9C00780B9A /* ControlMultipleAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74576FE62BA6BF9C00780B9A /* ControlMultipleAnimation.swift */; };
 		74576FE92BA6C38600780B9A /* DragGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74576FE82BA6C38600780B9A /* DragGesture.swift */; };
+		74C19DDA2BA7E50B0056613F /* TransitionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C19DD92BA7E50B0056613F /* TransitionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		74576FE42BA69FB100780B9A /* ExplicitAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExplicitAnimationView.swift; sourceTree = "<group>"; };
 		74576FE62BA6BF9C00780B9A /* ControlMultipleAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlMultipleAnimation.swift; sourceTree = "<group>"; };
 		74576FE82BA6C38600780B9A /* DragGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGesture.swift; sourceTree = "<group>"; };
+		74C19DD92BA7E50B0056613F /* TransitionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				74576FD62BA6956300780B9A /* SwiftUI_AnimationApp.swift */,
 				74576FD82BA6956300780B9A /* ContentView.swift */,
 				74576FE42BA69FB100780B9A /* ExplicitAnimationView.swift */,
+				74C19DD92BA7E50B0056613F /* TransitionView.swift */,
 				74576FE62BA6BF9C00780B9A /* ControlMultipleAnimation.swift */,
 				74576FE82BA6C38600780B9A /* DragGesture.swift */,
 				74576FDA2BA6956400780B9A /* Assets.xcassets */,
@@ -151,6 +154,7 @@
 				74576FE72BA6BF9C00780B9A /* ControlMultipleAnimation.swift in Sources */,
 				74576FE92BA6C38600780B9A /* DragGesture.swift in Sources */,
 				74576FD72BA6956300780B9A /* SwiftUI_AnimationApp.swift in Sources */,
+				74C19DDA2BA7E50B0056613F /* TransitionView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
